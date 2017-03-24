@@ -177,7 +177,7 @@ public class ArticleListActivity extends AppCompatActivity implements
                             Bitmap bitmap = imageContainer.getBitmap();
                             if (bitmap != null) {
                                 Palette palette = Palette.from(bitmap).generate();
-                                Palette.Swatch vibrant = palette.getVibrantSwatch();
+                                Palette.Swatch vibrant = palette.getDarkVibrantSwatch();
                                 if (vibrant != null) {
                                     // Set the background color of a layout based on the vibrant color
                                     holder.containerLayout.setBackgroundColor(vibrant.getRgb());

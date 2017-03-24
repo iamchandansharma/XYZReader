@@ -7,5 +7,10 @@
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="side_margin">16dp</dimen>
+    <dimen name="appbar_height">320dp</dimen>
+    <dimen name="top_bottom_margin">24dp</dimen>
+    <dimen name="card_view_width">500dp</dimen>
+    <dimen name="card_view_margin">32dp</dimen>
 
 </resources>

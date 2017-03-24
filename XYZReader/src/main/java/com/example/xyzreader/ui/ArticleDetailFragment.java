@@ -154,7 +154,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
                                 if (width >= 600) {
                                     Palette palette = Palette.from(bitmap).generate();
-                                    Palette.Swatch vibrant = palette.getVibrantSwatch();
+                                    Palette.Swatch vibrant = palette.getDarkVibrantSwatch();
                                     if (vibrant != null) {
                                         mRootView.findViewById(R.id.text_container)
                                                 .setBackgroundColor(vibrant.getRgb());
