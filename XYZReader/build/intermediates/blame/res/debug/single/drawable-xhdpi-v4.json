@@ -208,11 +208,11 @@
         "source": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\CS\\AndroidStudioProjects\\Udacity\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     }
 ]

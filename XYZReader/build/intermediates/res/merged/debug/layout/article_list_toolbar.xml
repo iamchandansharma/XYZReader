@@ -2,9 +2,9 @@
 <android.support.design.widget.AppBarLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/appBar"
-    android:background="?colorPrimary"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:background="?colorPrimary">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
@@ -17,8 +17,8 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@drawable/logo"
-            android:contentDescription="@string/app_name" />
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/logo"/>
 
     </android.support.v7.widget.Toolbar>
 

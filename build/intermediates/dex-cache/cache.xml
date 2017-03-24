@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="40ff4874750a9043ae90caa2374dbfc3a2c9909d">
+        sha1="2e2ae3ab7dddc59b66a8247307ff0f7581b6df76">
         <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eaa0cb7a179cc32a207c345bf9bd19428bf452fa\classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e0a2e3544595f9e913adc527c238c76226c8508b">
+        sha1="5d9f2d422f1fc23d4666c86964735809cb609352">
         <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dcc8c57526771b933462a079dbd07e6a445fc6e0\classes.dex" />
     </item>
     <item
@@ -90,6 +90,15 @@
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
         <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_f7f8d2958d23d549c4b748fc681210f0c8cd94f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3c43544c353d127d9711267d9a9173cb3edb8a4c\classes.dex" />
     </item>
     <item
         is-multidex="true"
