@@ -18,7 +18,6 @@ import android.text.Html;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -38,7 +37,6 @@ public class ArticleDetailFragment extends Fragment implements
         LoaderManager.LoaderCallbacks<Cursor> {
     public static final String ARG_ITEM_ID = "item_id";
     private static final String TAG = "ArticleDetailFragment";
-    private static final float PARALLAX_FACTOR = 1.25f;
 
     private Cursor mCursor;
     private long mItemId;
@@ -109,15 +107,6 @@ public class ArticleDetailFragment extends Fragment implements
 
         bindViews();
         return mRootView;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == android.R.id.home) {
-            getActivity().finish();
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
     }
 
     private void bindViews() {

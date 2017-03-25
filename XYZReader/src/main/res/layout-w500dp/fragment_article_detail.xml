@@ -109,7 +109,7 @@
         android:clickable="true"
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
-        app:elevation="4dp"
+        app:elevation="6dp"
         app:fabSize="normal"
         app:layout_anchor="@id/appBar"
         app:layout_anchorGravity="bottom|end"/>
